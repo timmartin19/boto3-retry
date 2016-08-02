@@ -21,7 +21,7 @@ test_requirements = [
 
 setup(
     name='boto3_retry',
-    version='0.1.1',
+    version='0.1.2',
     description="A tool for easily retring failed AWS requests via boto3 based on the error code",
     long_description=readme + '\n\n' + history,
     author="Tim Martin",

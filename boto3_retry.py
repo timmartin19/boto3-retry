@@ -10,7 +10,7 @@ import functools
 
 __author__ = 'Tim Martin'
 __email__ = 'tim@timmartin.me'
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 LOG = logging.getLogger(__name__)
 
